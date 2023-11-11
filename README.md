@@ -2,7 +2,7 @@
 
 monster7800 is an alternative PCB board for the Monster Joysticks 8/16bit *Retro BASIC* and *Deluxe* Joystick Kits to support both buttons on Atari 7800 console. The board also works with some other devices, like the original Atari 7800 Proline joystick and gamepad.
 
-*This project is not associated with Monster Joysticks*
+*This project is not associated with Monster Joysticks Ltd.*
 
 ![build earlier revision of monster7800](<./monster7800_0.9.JPG>)
 
